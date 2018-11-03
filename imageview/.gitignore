@@ -1,0 +1,11 @@
+invaders
+output.out
+*~
+#*
+log.txt
+*.o
+*.log
+qt.mk
+*.cpp
+test0
+.qmake.stash

@@ -1,0 +1,7 @@
+tmp-cpudiag
+tmp-invaders
+project
+*~
+*.o
+cmodel/i8080
+imageview/imageview
